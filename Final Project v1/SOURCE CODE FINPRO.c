@@ -1390,7 +1390,8 @@ int customer_Menu()
     {
         printf("\033[1;34m");
         printf("#---------------------------#\n");
-        printf("|\033[1;33m       Customer Menu       \033[1;34m|\n");
+        // printf("|\033[1;33m       Customer Menu       \033[1;34m|\n");
+        printf("|\033[1;33m       Main Menu Customer        \033[1;34m|\n");
         printf("#---------------------------#\n");
         printf("|\033[1;0m [1] Login                 \033[1;34m|\n");
         printf("|\033[1;0m [2] Register              \033[1;34m|\n");
